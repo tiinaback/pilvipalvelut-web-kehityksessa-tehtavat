@@ -1,4 +1,4 @@
-GitHub Pages-sivuni, jossa Jekyll teema
+GitHub Pages-sivuni, jossa No-Style-Please -niminen Jekyll teema
 ## Tervetuloa GitHub Pages-sivustolleni!
 
 Täältä löytyvät tehtäväpalautukset:
