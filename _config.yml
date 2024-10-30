@@ -1,1 +1,9 @@
+title: Jekyll:iä käyttävä sivusto
+description: Tervetuloa sivustolle!
+theme: midnight
 
+header_pages:
+- index.md
+- vko2.md
+
+github_username: tiinaback
