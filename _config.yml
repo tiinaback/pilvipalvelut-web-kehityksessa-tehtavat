@@ -1,6 +1,6 @@
 title: Jekyll:iä käyttävä sivusto
 description: Tervetuloa sivustolle!
-theme: jekyll-theme-no-style-please
+remote_theme: riggraz/no-style-please
 
 header_pages:
 - index.md
