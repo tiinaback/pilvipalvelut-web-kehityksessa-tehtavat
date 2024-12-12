@@ -8,4 +8,4 @@ Täältä löytyvät tehtäväpalautukset:
 - [Viikko 4](./vko4/index.html)
 - [Viikko 5](./vko5/vko5.md)
 - [Viikko 6](./vko6/index.html)
-- Harjoitustehtävä
+- [Harjoitustyö](.harjoitustyo/index.html)
